@@ -5,6 +5,6 @@ Bug hunting in OpenFL 3
 
 # MatrixBug
 **UNSOLVED**
-[OpenFL Ticket #307](https://github.com/openfl/openfl/issues/307)
+[OpenFL Ticket #555](https://github.com/openfl/openfl/issues/555)
 
 » [Go to sample project and explanation](/matrix)
