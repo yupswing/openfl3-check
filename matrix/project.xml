@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Matrix Test" package="com.akifox.openfl3-check.matrix" version="1.0.0" company="Akifox Studio" />
+	<app main="Main" path="Export" file="Matrix Test" />
+
+
+	<window fps="60" background="0x000000" />
+	<window width="550" height="550" resizable="false" unless="mobile" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	
+	<assets path="Assets" rename="assets" exclude="openfl.svg" />
+	<icon path="Assets/openfl.svg" />
+	
+</project>
